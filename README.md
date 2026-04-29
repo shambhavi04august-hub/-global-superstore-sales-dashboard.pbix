@@ -26,7 +26,7 @@ This project presents an interactive Power BI dashboard analyzing global sales, 
 ![Dashboard](dashboard.png)
 
 ## 📂 Project File
-🔽 [Download Dashboard](global-superstore-dashboard.pbix)
+🔽 [Download Dashboard](-global-superstore-dashboard.pbix)
 
 ## 📈 Key Insights
 - Highest sales observed in specific regions  
