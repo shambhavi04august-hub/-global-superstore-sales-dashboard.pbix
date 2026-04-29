@@ -23,7 +23,7 @@ This project presents an interactive Power BI dashboard analyzing global sales, 
 
 ## 🖼 Dashboard Preview
 
-![Dashboard 1](dashboard1.png)
+![Dashboard](dashboard.png)
 
 ## 📂 Project File
 🔽 [Download Dashboard](global-superstore-dashboard.pbix)
