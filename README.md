@@ -36,6 +36,9 @@ This project presents an interactive Power BI dashboard analyzing global sales, 
 ## 👩‍💻 Author
 
 Shambhavi Tripathi
+
 https://www.linkedin.com/in/shambhavi-tripathi-94bb9937a
+
 https://github.com/shambhavi04august-hub
+
 Logistics Professional 🚚 | Tech Enthusiast 💻 | Data-Driven 📊
